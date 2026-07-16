@@ -1,2 +1,2 @@
 # Trackly
-An expense tracking app for iOS and android, built in flutter using localStorage, state management, statistical data description.
+An expense tracking app for iOS and android, built in flutter using localStorage, state management and statistical data description.
